@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=50FA7B&height=200&section=header&text=Henriquehnnm%20💻&fontSize=40&fontColor=F8F8F2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=50FA7B&height=200&section=header&text=Henriquehnnm&fontSize=40&fontColor=F8F8F2" />
 </p>
 
 <h1 align="center">Hi! I’m Henrique!</h1>
