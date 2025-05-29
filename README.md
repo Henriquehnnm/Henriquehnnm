@@ -35,7 +35,7 @@
 
 - [`HydroTop`](https://github.com/Henriquehnnm/HydroTop) A simple minimalist and beautiful system monitor 🐍⚡
 
-- [`HydroToDo`](https://github.com/Henriquehnnm/HydroTop) A dynamic, modern and TUI To-Do list 💻📃
+- [`HydroToDo`](https://github.com/Henriquehnnm/HydroTop) A dynamic, modern and TUI To-Do list 🐍📃
 
 ---
 
