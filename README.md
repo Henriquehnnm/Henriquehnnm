@@ -6,7 +6,7 @@
 <h1 align="center">Hi! I’m Henrique!</h1>
 <p align="center">
   🐧 Void Linux User • 💻 Dev from the heart • 💙 Free Software lover <br/>
-  🛠 Creator of HydrobProject • Language and terminal explorer ✨
+  🛠 Creator of Hydro Project • Language and terminal explorer ✨
 </p>
 
 ---
