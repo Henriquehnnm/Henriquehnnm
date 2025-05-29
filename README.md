@@ -6,7 +6,7 @@
 <h1 align="center">Hi! I’m Henrique!</h1>
 <p align="center">
   🐧 Void Linux User • 💻 Dev from the heart • 💙 Free Software lover <br/>
-  🛠 Creator of HydroFetch • Language and terminal explorer ✨
+  🛠 Creator of HydrobProject • Language and terminal explorer ✨
 </p>
 
 ---
@@ -32,6 +32,10 @@
 ✨ Some of my favorite little creations:
 
 - [`HydroFetch`](https://github.com/Henriquehnnm/HydroFetch) — A pretty and customizable fetch tool 🐚💙  
+
+[`HydroTop`](https://github.com/Henriquehnnm/HydroTop) A simple minimalist and beautiful system monitor 🐍⚡
+
+[`HydroToDo`](https://github.com/Henriquehnnm/HydroTop) A dynamic, modern and TUI To-Do list 💻📃
 
 ---
 
