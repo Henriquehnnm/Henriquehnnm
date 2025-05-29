@@ -33,8 +33,7 @@
 
 - [`HydroFetch`](https://github.com/Henriquehnnm/HydroFetch) — A pretty and customizable fetch tool 🐚💙  
 
--
-[`HydroTop`](https://github.com/Henriquehnnm/HydroTop) A simple minimalist and beautiful system monitor 🐍⚡
+- [`HydroTop`](https://github.com/Henriquehnnm/HydroTop) A simple minimalist and beautiful system monitor 🐍⚡
 
 -
 [`HydroToDo`](https://github.com/Henriquehnnm/HydroTop) A dynamic, modern and TUI To-Do list 💻📃
