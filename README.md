@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi! I’m Henrique!</h1>
 <p align="center">
-  🐧 Void Linux User • 💻 Dev from the heart • 💙 Free Software lover <br/>
+  🐧 Arch Linux User • 💻 Dev from the heart • 💙 Free Software lover <br/>
   🛠 Creator of Hydro Project • Language and terminal explorer ✨
 </p>
 
@@ -42,8 +42,8 @@
 ## 📊 My Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Henriquehnnm&show_icons=true&theme=rose_pine&hide=issues&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquehnnm&layout=compact&theme=rose_pine" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Henriquehnnm&show_icons=true&theme=dark&hide=issues&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquehnnm&layout=compact&theme=dark" alt="Top Langs"/>
 </p>
 
 ---
