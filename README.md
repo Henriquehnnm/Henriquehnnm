@@ -42,8 +42,8 @@
 ## 📊 My Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Henriquehnnm&show_icons=true&theme=github_dark&hide=issues&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquehnnm&layout=compact&theme=github_dark" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Henriquehnnm&show_icons=true&theme=aura&hide=issues&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquehnnm&layout=compact&theme=aura" alt="Top Langs"/>
 </p>
 
 ---
