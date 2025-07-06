@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3cade7&height=200&section=header&text=Henriquehnnm&fontSize=40&fontColor=F8F8F2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=61ffca&height=200&section=header&text=Henriquehnnm&fontSize=40&fontColor=F8F8F2" />
 </p>
 
 <h1 align="center">Hi! I’m Henrique!</h1>
@@ -65,5 +65,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3cade7&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=61ffca&height=120&section=footer"/>
 </p>
