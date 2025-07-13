@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=61ffca&height=200&section=header&text=Henriquehnnm&fontSize=40&fontColor=F8F8F2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9ccfd8&height=200&section=header&text=Henriquehnnm&fontSize=40&fontColor=F8F8F2" />
 </p>
 
 <h1 align="center">Hi! I’m Henrique!</h1>
@@ -42,8 +42,8 @@
 ## 📊 My Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Henriquehnnm&show_icons=true&theme=aura&hide=issues&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquehnnm&layout=compact&theme=aura" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Henriquehnnm&show_icons=true&theme=rose_pine&hide=issues&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquehnnm&layout=compact&theme=rose_pine" alt="Top Langs"/>
 </p>
 
 ---
@@ -65,5 +65,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=61ffca&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9ccfd8&height=120&section=footer"/>
 </p>
