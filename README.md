@@ -39,12 +39,56 @@
 
 ---
 
-## 📊 My Coding Stats
+<div align="center">
+  
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Henriquehnnm&show_icons=true&theme=gruvbox&hide=issues&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquehnnm&layout=compact&theme=gruvbox" alt="Top Langs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henriquehnnm&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquehnnm&layout=compact&theme=gruvbox&hide_border=true&langs_count=8"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henriquehnnm&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Henriquehnnm&theme=gruvbox&hide_border=true&layout=compact" alt="WakaTime Stats"/>
+</p>
+
+---
+
+<div align="center">
+  
+### 🚀 Atividade no GitHub
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Henriquehnnm&theme=gruvbox" alt="Profile Details"/>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Henriquehnnm&theme=gruvbox" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Henriquehnnm&theme=gruvbox" alt="Most Commit Language"/>
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Henriquehnnm&theme=gruvbox" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Henriquehnnm&theme=gruvbox&utc_offset=8" alt="Productive Time"/>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🏆 GitHub Trophies
+  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Henriquehnnm&theme=gruvbox&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
+</div>
+
+</div>
 
 ---
 
