@@ -11,6 +11,7 @@
 
 <br>
 
+<div align="center">
 ## 💻 About me
 
 - ⌨️ Always at the terminal
@@ -19,7 +20,7 @@
 
 <br>
 
-## 🌱 Currently learning
+<h2>🌱 Currently learning</h2>
 
 - 🎨 **HTML** & **CSS** (my visual sweethearts 🌐)
 - 🧠 **JavaScript** & **TypeScript** (wrangling these wild things 🤯)
@@ -38,6 +39,7 @@
 - [`HydroToDo`](https://github.com/Henriquehnnm/HydroToDo) A dynamic, modern and TUI To-Do list 🐍📃
 
 <br>
+</div>
 
 <div align="center">
   
