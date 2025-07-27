@@ -9,7 +9,7 @@
   🛠 Creator of Hydro Project • Language and terminal explorer ✨
 </p>
 
----
+<br>
 
 ## 💻 About me
 
@@ -17,7 +17,7 @@
 - 🔧 I love building useful, simple, and libre tools like [HydroFetch](https://github.com/Henriquehnnm/HydroFetch)!
 - 🚀 Passionate about FOSS, terminal aesthetics, and teaching beginners with warmth and kindness
 
----
+<br>
 
 ## 🌱 Currently learning
 
@@ -25,7 +25,7 @@
 - 🧠 **JavaScript** & **TypeScript** (wrangling these wild things 🤯)
 - 🦀 **Rust** (because I like elegant suffering 💥)
 
----
+<br>
 
 ## 🚀 Highlighted Projects
 
@@ -37,7 +37,7 @@
 
 - [`HydroToDo`](https://github.com/Henriquehnnm/HydroToDo) A dynamic, modern and TUI To-Do list 🐍📃
 
----
+<br>
 
 <div align="center">
   
@@ -78,14 +78,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Henriquehnnm&theme=gruvbox&no-frame=true&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
----
+<br>
 
 ## 📬 Contact me!
 
 - 📧 **Email**: henriquesardinha987@gmail.com  
 - 💬 Open an issue or drop a comment — I love connecting!
 
----
+<br>
 
 ## ⚡ Fun facts
 
@@ -94,7 +94,7 @@
 - My favorite languages: **Shell Script and CSS**    
 - Oh and... *don’t underestimate my inner Vegeta, okay?*  ⚠️
 
----
+<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=89b482&height=120&section=footer"/>
