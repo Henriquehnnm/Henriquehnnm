@@ -94,7 +94,6 @@
 - I’ve tested nearly **40 Linux distros** (and counting...)
 - I prefer **coffee ☕** (terminal devs unite!)
 - My favorite languages: **Shell Script and CSS**    
-- Oh and... *don’t underestimate my inner Vegeta, okay?*  ⚠️
 
 <br>
 
