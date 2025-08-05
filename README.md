@@ -12,6 +12,7 @@
 <br>
 
 <div align="center">
+  
 ## 💻 About me
 
 - ⌨️ Always at the terminal
