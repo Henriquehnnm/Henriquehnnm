@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=89b482&height=200&section=header&text=Henriquehnnm&fontSize=40&fontColor=F8F8F2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4493f8&height=200&section=header&text=Henriquehnnm&fontSize=40&fontColor=F8F8F2" />
 </p>
 
 <h1 align="center">Hi! I’m Henrique!</h1>
@@ -47,12 +47,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henriquehnnm&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquehnnm&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henriquehnnm&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquehnnm&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
   
   <br><br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henriquehnnm&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henriquehnnm&theme=github_dark&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <br>
@@ -60,25 +60,17 @@
 ## 🚀 Atividade
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Henriquehnnm&theme=gruvbox" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Henriquehnnm&theme=github_dark" alt="Profile Details"/>
   
   <br><br>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Henriquehnnm&theme=gruvbox" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Henriquehnnm&theme=gruvbox" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Henriquehnnm&theme=github_dark" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Henriquehnnm&theme=github_dark" alt="Most Commit Language"/>
   
   <br><br>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Henriquehnnm&theme=gruvbox" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Henriquehnnm&theme=gruvbox&utc_offset=-3" alt="Productive Time"/>
-</div>
-
-<br>
-
-## 🏆 Conquistas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Henriquehnnm&theme=gruvbox&no-frame=true&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Henriquehnnm&theme=github_dark" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Henriquehnnm&theme=github_dark&utc_offset=-3" alt="Productive Time"/>
 </div>
 
 <br>
@@ -99,5 +91,5 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=89b482&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4493f8&height=120&section=footer"/>
 </p>
