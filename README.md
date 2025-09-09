@@ -2,7 +2,7 @@
 
 **Linux enthusiast • Open source developer • Terminal dweller**
 
-## 📊 Stats
+## Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Henriquehnnm&show_icons=true&theme=rose_pine&bg_color=0D1117&hide_border=true&count_private=true" height="165"/>
@@ -11,7 +11,7 @@
 </div>
 
 
-## 💬 Contact
+## Contact
 
 - **Email**: henriquesardinha987@gmail.com
 - **GitHub Issues**: For project-related questions
