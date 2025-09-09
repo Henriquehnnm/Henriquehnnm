@@ -1,4 +1,4 @@
-# Henrique
+# Hey, I'm Henrique! 🐧
 
 **Linux enthusiast • Open source developer • Terminal dweller**
 
