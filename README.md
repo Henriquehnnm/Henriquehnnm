@@ -11,10 +11,9 @@
 </div>
 
 
-## Contact
+## About
 
-- **Email**: henriquesardinha987@gmail.com
-- **GitHub Issues**: For project-related questions
+- [My portfolio](https://henriquehnnm.netlify.app/)
 
 ---
 *"Simplicity is the ultimate sophistication" - someone who definitely didn't use 15 GitHub widgets in their README*
