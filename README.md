@@ -1,6 +1,6 @@
 # Hey, I'm Henrique! 🐧
 
-**Im use Arch BTW • Open source developer • Terminal dweller**
+**I'm use Arch BTW • Open source developer • Terminal dweller**
 
 ## Stats
 
