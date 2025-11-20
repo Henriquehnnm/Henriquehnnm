@@ -16,4 +16,4 @@
 - [My portfolio](https://henriquehnnm.netlify.app/)
 
 ---
-*Im use Arch BTW... Yes I said that again*
+*I'm use Arch BTW... Yes I said that again*
