@@ -16,4 +16,4 @@
 - [My portfolio](https://henriquehnnm.netlify.app/)
 
 ---
-*"Simplicity is the ultimate sophistication" - someone who definitely didn't use 15 GitHub widgets in their README*
+*Im use Arch BTW... Yes I said that again*
