@@ -1,6 +1,6 @@
 # Hey, I'm Henrique! 🐧
 
-**I'm use Arch BTW • Open source developer • Terminal dweller**
+**Zorin OS • Open source developer • Terminal dweller**
 
 ## Stats
 
@@ -16,4 +16,4 @@
 - [My portfolio](https://henriquehnnm.netlify.app/)
 
 ---
-*I'm use Arch BTW... Yes I said that again*
+*Behold, I'm the guy who uses gradient wallpaper...*
