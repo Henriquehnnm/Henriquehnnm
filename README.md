@@ -13,7 +13,15 @@
 
 ## About
 
-- [My portfolio](https://henriquehnnm.netlify.app/)
+### Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,gitlab,linux,webstorm,vite,js,ts,astro" />
+  </a>
+</p>
+
+### My portfolio
+- https://henriquehnnm.netlify.app/
 
 ---
 *Behold, I'm the guy who uses gradient wallpaper...*
