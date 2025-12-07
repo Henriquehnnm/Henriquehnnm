@@ -13,7 +13,7 @@
 
 ### Skills
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,gitlab,linux,webstorm,vite,astro,js,ts" />
+    <img src="https://skillicons.dev/icons?i=github,gitlab,linux,vscode,vite,astro,js,ts" />
   </a>
 
 ### My portfolio
