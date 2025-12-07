@@ -20,4 +20,4 @@
 - https://henriquehnnm.netlify.app/
 
 ---
-*Behold, I'm the guy who uses gradient wallpaper...*
+*Behold, I'm the guy who uses anime wallpaper...*
