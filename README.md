@@ -20,4 +20,4 @@
 - https://henriquehnnm.netlify.app/
 
 ---
-*I use Zolarized... yes, with a Z...*
+*I use Bubble Tea Theme...*
