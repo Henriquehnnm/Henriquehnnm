@@ -1,6 +1,6 @@
 # Hey, I'm Henrique! 🐧
 
-**Zorin OS • Open source developer • Terminal dweller**
+**Arch (BTW) • Open source developer • Terminal dweller**
 
 ## Stats
 
@@ -20,4 +20,4 @@
 - https://henriquehnnm.netlify.app/
 
 ---
-*I use Bubble Tea Theme...*
+*Im using Arch BTW... yes, I said that again...*
